@@ -16,4 +16,6 @@
 
 ### Major libraries required for running the games are pygame, mediapipe, openCV2, os. 
 
+### Link to our Final Report-> https://vibhavsinha04.github.io/GameBox-Report/
+
 ### You can find the the running demo of our Artifact on this link-> https://youtu.be/Kpk5TX7Mkjc
