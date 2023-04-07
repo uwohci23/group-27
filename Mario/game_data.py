@@ -1,0 +1,87 @@
+level_0 = {
+		'terrain': './Mario/levels/0/level_0_terrain.csv',
+		'coins':'./Mario/levels/0/level_0_coins.csv',
+		'fg palms':'./Mario/levels/0/level_0_fg_palms.csv',
+		'bg palms':'./Mario/levels/0/level_0_bg_palms.csv',
+		'crates': './Mario/levels/0/level_0_crates.csv',
+		'enemies':'./Mario/levels/0/level_0_enemies.csv',
+		'constraints':'./Mario/levels/0/level_0_constraints.csv',
+		'player': './Mario/levels/0/level_0_player.csv',
+		'grass': './Mario/levels/0/level_0_grass.csv', 
+        'node_pos':(110,440),
+        'unlock':'1',
+        'node_graphics':'./Mario/graphics/overworld/0'}
+level_1 = {
+		'terrain': './Mario/levels/1/level_1_terrain.csv',
+		'coins':'./Mario/levels/1/level_1_coins.csv',
+		'fg palms':'./Mario/levels/1/level_1_fg_palms.csv',
+		'bg palms':'./Mario/levels/1/level_1_bg_palms.csv',
+		'crates': './Mario/levels/1/level_1_crates.csv',
+		'enemies':'./Mario/levels/1/level_1_enemies.csv',
+		'constraints':'./Mario/levels/1/level_1_constraints.csv',
+		'player': './Mario/levels/1/level_1_player.csv',
+		'grass': './Mario/levels/1/level_1_grass.csv', 
+        'node_pos':(320,220),
+        'unlock':'2',
+        'node_graphics':'./Mario/graphics/overworld/1'}
+level_2 = {
+		'terrain': './Mario/levels/2/level_2_terrain.csv',
+		'coins':'./Mario/levels/2/level_2_coins.csv',
+		'fg palms':'./Mario/levels/2/level_2_fg_palms.csv',
+		'bg palms':'./Mario/levels/2/level_2_bg_palms.csv',
+		'crates': './Mario/levels/2/level_2_crates.csv',
+		'enemies':'./Mario/levels/2/level_2_enemies.csv',
+		'constraints':'./Mario/levels/2/level_2_constraints.csv',
+		'player': './Mario/levels/2/level_2_player.csv',
+		'grass': './Mario/levels/2/level_2_grass.csv', 
+        'node_pos':(480,610),
+        'unlock':'3',
+        'node_graphics':'./Mario/graphics/overworld/2'}
+level_3 = {
+		'terrain': './Mario/levels/2/level_2_terrain.csv',
+		'coins':'./Mario/levels/2/level_2_coins.csv',
+		'fg palms':'./Mario/levels/2/level_2_fg_palms.csv',
+		'bg palms':'./Mario/levels/2/level_2_bg_palms.csv',
+		'crates': './Mario/levels/2/level_2_crates.csv',
+		'enemies':'./Mario/levels/2/level_2_enemies.csv',
+		'constraints':'./Mario/levels/2/level_2_constraints.csv',
+		'player': './Mario/levels/2/level_2_player.csv',
+		'grass': './Mario/levels/2/level_2_grass.csv', 
+        'node_pos':(610,350),
+        'unlock':'4',
+        'node_graphics':'./Mario/graphics/overworld/3'}
+level_4 = {
+		'terrain': './Mario/levels/2/level_2_terrain.csv',
+		'coins':'./Mario/levels/2/level_2_coins.csv',
+		'fg palms':'./Mario/levels/2/level_2_fg_palms.csv',
+		'bg palms':'./Mario/levels/2/level_2_bg_palms.csv',
+		'crates': './Mario/levels/2/level_2_crates.csv',
+		'enemies':'./Mario/levels/2/level_2_enemies.csv',
+		'constraints':'./Mario/levels/2/level_2_constraints.csv',
+		'player': './Mario/levels/2/level_2_player.csv',
+		'grass': './Mario/levels/2/level_2_grass.csv', 
+        'node_pos':(880,210),
+        'unlock':'5',
+        'node_graphics':'./Mario/graphics/overworld/4'}
+level_5 = {
+		'terrain': './Mario/levels/2/level_2_terrain.csv',
+		'coins':'./Mario/levels/2/level_2_coins.csv',
+		'fg palms':'./Mario/levels/2/level_2_fg_palms.csv',
+		'bg palms':'./Mario/levels/2/level_2_bg_palms.csv',
+		'crates': './Mario/levels/2/level_2_crates.csv',
+		'enemies':'./Mario/levels/2/level_2_enemies.csv',
+		'constraints':'./Mario/levels/2/level_2_constraints.csv',
+		'player': './Mario/levels/2/level_2_player.csv',
+		'grass': './Mario/levels/2/level_2_grass.csv', 
+        'node_pos':(1050,400),
+        'unlock':'5',
+        'node_graphics':'./Mario/graphics/overworld/5'}
+
+levels = {
+    0:level_0,
+    1:level_1,
+    2:level_2,
+    3:level_3,
+    4:level_4,
+    5:level_5
+}
