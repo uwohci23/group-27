@@ -6,6 +6,8 @@
 * Nimra Akram(251323523)
 * Mohammad Yasin Aziz(251282726)
 
+### This game is the Final end product of our course Human - Computer Interaction (CS9552B). 
+
 ## How to run the Code on your system - 
 ### Before cloning the code make sure you have Python installed on oyur system and update it to the latest stable version of it.
 * First clone the repository or download the files in the same file structure.
