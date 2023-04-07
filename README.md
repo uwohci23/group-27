@@ -14,4 +14,4 @@
 
 ### Major libraries required for running the games are pygame, mediapipe, openCV2, os. 
 
-## You can find the the running demo of our Artifact on this link -> https://youtu.be/Kpk5TX7Mkjc
+### You can find the the running demo of our Artifact on this link -> https://youtu.be/Kpk5TX7Mkjc
