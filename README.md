@@ -6,3 +6,8 @@
 *  Nimra Akram(251323523)
 * Mohammad Yasin Aziz(251282726)
 
+## How to run the Code on your system - 
+### Before cloning the code make sure you have Python installed on oyur system and update it to the latest stable version of it.
+* First clone the repository or download the files in the same file structure.
+* Then open launcher.py file to play the game.
+* Make sure to install the requirements using pip command. 
