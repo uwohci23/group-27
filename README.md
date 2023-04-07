@@ -3,7 +3,7 @@
 * Vibhav Vijay Sinha(251271710)     
 * Utkarsh Akhouri(251271361) 
 * Arpita Sharma(251268433)       
-*  Nimra Akram(251323523)
+* Nimra Akram(251323523)
 * Mohammad Yasin Aziz(251282726)
 
 ## How to run the Code on your system - 
@@ -11,3 +11,7 @@
 * First clone the repository or download the files in the same file structure.
 * Then open launcher.py file to play the game.
 * Make sure to install the requirements using pip command. 
+
+### Major libraries required for running the games are pygame, mediapipe, openCV2, os. 
+
+## You can find the the running demo of our Artifact on this link -> https://youtu.be/Kpk5TX7Mkjc
